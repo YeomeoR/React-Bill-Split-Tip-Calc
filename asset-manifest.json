@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yeomeor.github.io/react-bill-split-tip-calc/static/css/main.2eae5d73.chunk.css",
-    "main.js": "/yeomeor.github.io/react-bill-split-tip-calc/static/js/main.67e36680.chunk.js",
-    "main.js.map": "/yeomeor.github.io/react-bill-split-tip-calc/static/js/main.67e36680.chunk.js.map",
-    "runtime-main.js": "/yeomeor.github.io/react-bill-split-tip-calc/static/js/runtime-main.cba9f8df.js",
-    "runtime-main.js.map": "/yeomeor.github.io/react-bill-split-tip-calc/static/js/runtime-main.cba9f8df.js.map",
-    "static/js/2.4cb06831.chunk.js": "/yeomeor.github.io/react-bill-split-tip-calc/static/js/2.4cb06831.chunk.js",
-    "static/js/2.4cb06831.chunk.js.map": "/yeomeor.github.io/react-bill-split-tip-calc/static/js/2.4cb06831.chunk.js.map",
-    "index.html": "/yeomeor.github.io/react-bill-split-tip-calc/index.html",
-    "static/css/main.2eae5d73.chunk.css.map": "/yeomeor.github.io/react-bill-split-tip-calc/static/css/main.2eae5d73.chunk.css.map",
-    "static/js/2.4cb06831.chunk.js.LICENSE.txt": "/yeomeor.github.io/react-bill-split-tip-calc/static/js/2.4cb06831.chunk.js.LICENSE.txt"
+    "main.css": "/yeomeor.github.io/bill-split-tips/static/css/main.2eae5d73.chunk.css",
+    "main.js": "/yeomeor.github.io/bill-split-tips/static/js/main.67e36680.chunk.js",
+    "main.js.map": "/yeomeor.github.io/bill-split-tips/static/js/main.67e36680.chunk.js.map",
+    "runtime-main.js": "/yeomeor.github.io/bill-split-tips/static/js/runtime-main.99349c3d.js",
+    "runtime-main.js.map": "/yeomeor.github.io/bill-split-tips/static/js/runtime-main.99349c3d.js.map",
+    "static/js/2.4cb06831.chunk.js": "/yeomeor.github.io/bill-split-tips/static/js/2.4cb06831.chunk.js",
+    "static/js/2.4cb06831.chunk.js.map": "/yeomeor.github.io/bill-split-tips/static/js/2.4cb06831.chunk.js.map",
+    "index.html": "/yeomeor.github.io/bill-split-tips/index.html",
+    "static/css/main.2eae5d73.chunk.css.map": "/yeomeor.github.io/bill-split-tips/static/css/main.2eae5d73.chunk.css.map",
+    "static/js/2.4cb06831.chunk.js.LICENSE.txt": "/yeomeor.github.io/bill-split-tips/static/js/2.4cb06831.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cba9f8df.js",
+    "static/js/runtime-main.99349c3d.js",
     "static/js/2.4cb06831.chunk.js",
     "static/css/main.2eae5d73.chunk.css",
     "static/js/main.67e36680.chunk.js"
