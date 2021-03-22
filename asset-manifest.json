@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/css/main.2eae5d73.chunk.css",
+    "main.js": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/js/main.67e36680.chunk.js",
+    "main.js.map": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/js/main.67e36680.chunk.js.map",
+    "runtime-main.js": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/js/runtime-main.94822342.js",
+    "runtime-main.js.map": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/js/runtime-main.94822342.js.map",
+    "static/js/2.4cb06831.chunk.js": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/js/2.4cb06831.chunk.js",
+    "static/js/2.4cb06831.chunk.js.map": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/js/2.4cb06831.chunk.js.map",
+    "index.html": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/index.html",
+    "static/css/main.2eae5d73.chunk.css.map": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/css/main.2eae5d73.chunk.css.map",
+    "static/js/2.4cb06831.chunk.js.LICENSE.txt": "/yeomeor.github.io/React-Bill-Split-Tip-Calc/static/js/2.4cb06831.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94822342.js",
+    "static/js/2.4cb06831.chunk.js",
+    "static/css/main.2eae5d73.chunk.css",
+    "static/js/main.67e36680.chunk.js"
+  ]
+}
